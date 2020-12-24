@@ -1,0 +1,1 @@
+{"sequence":{"1":"update test SET firstname='IntelliJ' where testid=102","2":"create table intellijTab"},"database":"jay","username":"admin"}
